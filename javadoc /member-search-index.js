@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Case","l":"Case(int, int)","u":"%3Cinit%3E(int,int)"},{"p":"<Unnamed>","c":"Case","l":"getnombrecolonnes()"},{"p":"<Unnamed>","c":"Case","l":"getnombrelignes()"}];updateSearchResults();
